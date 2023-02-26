@@ -21,3 +21,4 @@
 | 16  | [This website will help you to understood what your code is doing](https://www.figstack.com/) |
 | 17  | [Common gitHub problems's solutions](https://ohshitgit.com/) |
 | 18  | [Resources for FAANG preparation](https://levelup.gitconnected.com/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e) |
+| 19  | [React coding challenges - Problems to solve](https://www.reacterry.com/) |
