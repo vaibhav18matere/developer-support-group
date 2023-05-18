@@ -22,3 +22,5 @@
 | 17  | [Common gitHub problems's solutions](https://ohshitgit.com/) |
 | 18  | [Resources for FAANG preparation](https://levelup.gitconnected.com/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e) |
 | 19  | [React coding challenges - Problems to solve](https://www.reacterry.com/) |
+| 20  | [Side income options for developers](https://dev.to/sasidhar_gadepalli/the-developers-guide-to-earning-side-income-an-inside-look-2jca) |
+
