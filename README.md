@@ -57,45 +57,23 @@
 [remote jobs 24](https://remotejobs24.com/) | [authentic jobs](https://authenticjobs.com) |
 [landing jobs](https://landing.jobs/) | [hired(dot)com](https://hired.com) |
 [upstack](https://upstack.co/careers) | [chalk board](https://usechalkboard.com) |
-[remote hunt](https://remotehunt.com) |
-
-### Part / Full Time 
-
-
-🌐 For Job Seekers
-
-- [Craigslist](https://www.craigslist.com)
-- [Simply Hired](https://lnkd.in/eHJhQfZr)
-- [Authentic Jobs](https://authenticjobs.com)
-- [Robert Half](https://www.roberthalf.com)
-- [Krop](https://www.krop.com)
-- [Career Builder](https://lnkd.in/ehVimyx4)
-- [Mashable](https://lnkd.in/esCvXMry)
-- [Power To Fly - Women](https://powertofly.com)
-- [Who Is Hiring](https://whoishiring.io)
-- [WebDevJobs](https://webdevjobs.co)
-- [Aquent](https://aquent.com)
-- [Idealist](https://www.idealist.org)
-- [Landing Jobs - uk ](https://landing.jobs)
-- [Sologig](https://www.sologig.com)
-- [Dice](https://www.dice.com)
-- [WPHired](https://www.wphired.com)
-- [github](https://jobs.github.com)
-- [Stack Overflow](https://lnkd.in/eyzAe3Sp)
+[remote hunt](https://remotehunt.com) | [Craigslist](https://www.craigslist.com) |
+[Simply Hired](https://lnkd.in/eHJhQfZr) | [Authentic Jobs](https://authenticjobs.com) |
+[Robert Half](https://www.roberthalf.com) |[Krop](https://www.krop.com) |
+[Career Builder](https://lnkd.in/ehVimyx4) | [Mashable](https://lnkd.in/esCvXMry) |
+[Power To Fly - Women](https://powertofly.com) | [Who Is Hiring](https://whoishiring.io) |
+[WebDevJobs](https://webdevjobs.co) | [Aquent](https://aquent.com) |
+[Idealist](https://www.idealist.org)| [Landing Jobs - uk ](https://landing.jobs) |
+[Sologig](https://www.sologig.com) | [Dice](https://www.dice.com) |
+[WPHired](https://www.wphired.com) | [github jobs](https://jobs.github.com) |
+[Stack Overflow](https://lnkd.in/eyzAe3Sp) |
 
 
-🚀 Startups Listing platforms:
+🚀 Startups jobs-listing platforms:
 
 - [angel.co](https://angel.co)
 - [underdog.io](https://underdog.io)
 - [www.startupers.com](https://www.startupers.com)
-
-
-🚀 Contents and Challenges:
-
-- [Topcoder](https://www.topcoder.com)
-- [Challenge Rocket](https://lnkd.in/e_qRzgsc)
-- [HackerRank](https://www.hackerrank.com)
 
 ## Random Resources
 
@@ -177,14 +155,15 @@
 
 ### Twitter lists, groups and communities related to Tech
 
-## 1. Lists
+#### Lists
+
 - [Devs and Tech Twitter List](https://twitter.com/i/lists/1396008817989623810)
-## 2. Communities
-- [Tech Community](https://twitter.com/i/communities/1641395384835780609)
-- [Developer Avocados](https://twitter.com/i/communities/1492185849878007809)
-- [This Week in Startups](https://twitter.com/i/communities/1496977694747209728)
-- [Tech Twitter](https://twitter.com/i/communities/1472105760389668865)
-- [DevRel | Developer Advocate](https://twitter.com/i/communities/1518598860435718144)
-- [Developers Assemble](https://twitter.com/i/communities/1494043709951950852)
-- [Another random community ](https://twitter.com/i/communities/1519178071907401735)
-- [DevOps Practices](https://twitter.com/i/communities/1508886484379738119)
+#### Communities
+
+| Website                                                                | Discord Invite                                                                |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Tech Community](https://twitter.com/i/communities/1641395384835780609)    | [DevOps Practices](https://twitter.com/i/communities/1508886484379738119)     |
+| [This Week in Startups](https://twitter.com/i/communities/1496977694747209728)  | [Developer Avocados](https://twitter.com/i/communities/1492185849878007809) |
+| [Developers Assemble](https://twitter.com/i/communities/1494043709951950852) | [Tech Twitter](https://twitter.com/i/communities/1472105760389668865) |
+| [DevRel , Developer Advocate](https://twitter.com/i/communities/1518598860435718144)  | [Another random community ](https://twitter.com/i/communities/1519178071907401735)|
+|
