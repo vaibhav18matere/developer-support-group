@@ -25,74 +25,8 @@
 | 20  | [Side income options for developers](https://dev.to/sasidhar_gadepalli/the-developers-guide-to-earning-side-income-an-inside-look-2jca) |
 | 21  | [React Security](https://reactsecurity.io)  |
 
-### Starup Lists based on location
-- [Notion Link of lists of starups](https://amusing-freon-21f.notion.site/Startup-Companies-to-apply-for-job-0b18c50df637444cb6aeea3040773201)
-
-### banglore
-- FrontM 
-- Effivity
-- Cilory
-- Cuion technologies
-- Trangile Service
-- Hical Technologies Pvt Ltd
-- Labyrinth
-- Tact. ai
-- Ribbon communications
-- Bleu Services Pvt Ltd
-- SentiSum
-- Spendgo
-- Arcesium
-- Hashout software technologies
-- Tricog
-- mygate
-- ecoinsight
-- tonetag bang
-- DronStudy pvt ltd
-- Lyca Digital
-- Tala
-- XPO logistics inc
-- FrontM
-- Effivity
-- tonetag
-- ring
-- Tricog
-- mygate
-- ecoinsight
-- Vertafore hydring
-
-
-### Pune
-- machinetel 
-- Prorigo software pvt ltd
-- Ceequence technology
-- KoKo Networks
-- TomTom
-- NICE actimize
-- Cellpoint Digital
-- Sakon
-- Ridecell
-- Emerson
-- Tsys
-- DKATALIS
-- play design labs
-- optymyze
-- coupa software
-- ivalua
-- Codewalla
-- Ciena
-- AppDirect
-- crowdstrike
-- dnata
-- Decos
-- dnata
-
-### Delhi 
-- ScootQ
-
-### Hyderabad
-- Vertafore
-- Bot Vfx
-- Orasi Global Services
+ 
+### [Notion Link of lists of starups](https://amusing-freon-21f.notion.site/Startup-Companies-to-apply-for-job-0b18c50df637444cb6aeea3040773201)
 
 # Remote jobs
 
@@ -188,3 +122,55 @@
 | [good companies to apply](https://www.notion.so/good-companies-to-apply-8fd5ceb5e4e04da194e71a2202e4e761)     | [Netherland - VISA sponsored - Highly Skilled Migrants](https://ind.nl/en/Documents/Public_Register_Regular_Labour_and_Highly_Skilled_Migrants.pdf)       | [Job referral program](https://www.notion.so/Job-referral-program-a7d36387218c4a6c9dfe0920935bc180)      | |[Top Startups to watch](https://www.notion.so/Top-Startups-to-watch-79ffc2b71fda44899d64fbcf596533b6)   | [List of unicorn startups](https://www.notion.so/List-of-unicorn-startups-e5664c3a24a84705b74a531ee6a5db7f)     | git status    |
 |[Hiring partners](https://www.notion.so/Hiring-partners-9567b3d960a74944afa9d22fad487ae1)    | [Let's deal - job platform](https://www.notion.so/Let-s-deal-job-platform-6291d8b33b994f1481aed9bc3a869364)       | [Remote jobs](https://www.notion.so/Remote-jobs-92f08c705ee649de8be33e59731786d9)      |
 |[jobs & portfolio  of pragmatic engineer](https://www.notion.so/jobs-portfolio-of-pragmatic-engineer-dcb4abc05020489b8a26170aa1bbb3d6)   | [Product Hunt - Jobs](https://www.notion.so/Product-Hunt-Jobs-e9c6dc9bdf9d485c8bef140dadacd671)     | [Top company’s DSA que](https://www.notion.so/Top-company-s-DSA-que-fdc4396e3e0543dead429e5616ddc754)| [UI design tools](https://www.notion.so/UI-design-tools-6997ad75a7224b9fbce04d910679b916)     | [DSA - easy way](https://www.notion.so/DSA-easy-way-ca54fee0d1e448bab1ababa9d34f1462)| [Placement Series - Take U forward ](https://www.notion.so/Placement-Series-Take-U-forward-9dc422fefb274cdc835227cc0337c868)| [Remote Indian Community](https://www.notion.so/Remote-Indian-Community-96072b7d9c8048feb852b834dc27fbc9) |[Algorithms - Abdul Bari YT](https://www.notion.so/Algorithms-Abdul-Bari-YT-0501ef531f744c8182094d2900d4c967)|[My journey with side-projects](https://www.notion.so/My-journey-with-side-projects-8f998cbfe7b84d0a800a3bc6b1e33400)|[React hooks](https://www.notion.so/React-hooks-d07ddee305424249ab21d4e518a0fad3) |[React templates for project](https://www.notion.so/React-templates-for-project-59ff7d610405434a9459e8d647267144) | [React with hooks](https://www.notion.so/React-with-hooks-5dfb5274e78a482981a585be28614e81)     | [Software engineering at Google](https://www.notion.so/Software-engineering-at-Google-218a30d485ab4b2cafa365d7a2c865c0) | [React design patterns, techniques, tips and tricks](https://www.notion.so/React-design-patterns-techniques-tips-and-tricks-a657b7d7389e4288946c865caab333cb) | [power of HTML](https://www.notion.so/power-of-HTML-134c625ca7d84243af4fb97ebcb2c9e3)
+
+
+## Discord-servers for techies - 
+
+### Origional github repo [Link](https://github.com/vaibhav18matere/Discord-Servers-For-Techies)
+- Free Joining Invite link of top discord servers and CBC courses
+
+| Server Name                                                            | Server Name
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | 
+[Team Tanay Community](https://discord.gg/cHubmyc95G) | [Shadab's Server](https://discord.gg/YBT88pYXXj)
+[Permissionless Learning](https://discord.gg/DMQxfZkNvV) |  [WorkAtTech](https://discord.gg/RW8uM2jkas)
+[Team DevKode](https://discord.gg/2wwgTvDehx) | [Love To Build](https://discord.gg/djAr4eB4fv)
+[Community Classroom](https://discord.gg/Pq7mvXKKmf) | [FAANG Path Community](https://discord.gg/sNbVR425eT)
+[JavaScript Meetup](https://discord.gg/78TAbPAyaB) |  [Code Coterie](https://discord.gg/5nFB27SRfz)
+[Nerd jfb tech cave](https://discord.gg/t2VzCgqe8f) | [SlingShot](https://discord.gg/DxSQtEfsvr)
+[Brightern](https://discord.gg/xk9XhK3eKt) | [Rowy](https://discord.gg/VNECwWXP3X)
+[WebDev & Design](https://discord.gg/vRbqZm2dyj) | [Tech with Tim](https://discord.gg/RbZBqwSaF7)
+[Scaler](https://discord.gg/ZAQZpjT98V) | [Code Hangout](https://discord.gg/cU6E5FVAHu)
+[PL Coding](https://discord.gg/qgYBVQ979S) | [Coding in flow](https://discord.gg/jU7G2E4kHk)
+[D-Code](https://discord.gg/YPEj58Q8Eu) | [JavaScript Mastery](https://discord.gg/77msQ8gJgn)
+[Ben Awad](https://discord.gg/benawad) | [Major league hacking](https://discord.gg/mlh)
+[Majorce](https://discord.gg/sMPvfc8X8w) | [XRDI](https://discord.gg/AK2W4Ty2z2)
+[Kevin Powell](https://discord.gg/zCpumSVF) | [PeerUp](https://discord.gg/4VSqYNXz)
+[Avalon Meta](https://discord.gg/ETMxcKHp) | [Lunch Dev](https://discord.gg/xU9rrGms)
+[Commit Your Code](https://discord.gg/sCMm6VuP) | [Dev Town](https://discord.gg/nbPdZUbd)
+[Tech Hustlers](https://discord.gg/YfFqWafS) | [DevCord](https://discord.gg/devcord)
+[Coder Journey](https://discord.gg/4NfvHTKB) | [Vilva JS Jockey](https://discord.gg/YU37SF3G)
+[Upmostly](https://discord.gg/5ZDmP87p) | [The poppers family](https://discord.gg/JrbhbtEb)
+[Tech Hustlers](https://discord.gg/YfFqWafS) | [Programming discussion](https://discord.gg/progdisc)
+[Corporate Chat India](https://discord.gg/BZWadRadfs) | [Namaste Dev - By Akshay Saini](https://discord.gg/4K5FvBqJus)
+[Meta Work DAO](https://discord.gg/ByHzyCgMdq) | [Aditya Thakur's Server](https://discord.gg/Zs8t9YzJ9x)
+[Developer's Together - Rachit's Programming](https://discord.gg/F2CJMGWW6P) | [Jonas Schmedtmann](https://discord.gg/5DxxHFDwdS)
+[ReactiFlux](https://discord.gg/5dEAnFzPyP)
+# Cohort based courses, bootcamps and upskilling programs
+
+| Name                                                                   | Name
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | 
+| [Neog camp](https://neog.camp)                                         | [roc8](https://www.roc8.careers)                          | 
+| [pesto tech](https://www.pesto.tech)                                   | [scaler](https://www.scaler.com)                          |
+| [relevel](https://relevel.com)                                         | [devsnest](https://devsnest.in)                           |
+| [blooms tech](https://www.bloomtech.com)                               
+
+## Official Discord Servers of
+
+| Website                                                                | Discord Invite                                                                |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Nest.JS](https://nestjs.com)                                    | [link](https://discord.gg/SgMctPMtrm)     |
+| [Flutter Dev](https://flutter.dev)                 | [link](https://discord.gg/rflutterdev)                  |
+| [Big Front End (BFE) dev](https://bigfrontend.dev) | [link](https://discord.gg/gjegkgcBXU)                   |
+| [JavaScript.info](javascript.info)                 | [link](https://discord.gg/ksDNVBWJ)                     |
+| [Top Geek](https://geekyants.com/)                 | [link](https://discord.gg/KUkVHUNTGr)                   |
+| [Hacktoberfest](https://hacktoberfest.digitalocean.com)  | [link](https://discord.gg/hacktoberfest)          |
