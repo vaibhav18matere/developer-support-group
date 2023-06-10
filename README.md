@@ -141,9 +141,9 @@
 | [This Week in Startups](https://twitter.com/i/communities/1496977694747209728)  | [Developer Avocados](https://twitter.com/i/communities/1492185849878007809) |
 | [Developers Assemble](https://twitter.com/i/communities/1494043709951950852) | [Tech Twitter](https://twitter.com/i/communities/1472105760389668865) |
 | [DevRel , Developer Advocate](https://twitter.com/i/communities/1518598860435718144)  | [Another random community ](https://twitter.com/i/communities/1519178071907401735)|
-|
 
-### Random article to read
+
+### Random articles to read and explore in free time
 | Sr  | Title                   | 
 | --- | ------------------------|                                 
 | 1   | [In deapth articles](https://indepth.dev) |
@@ -167,3 +167,6 @@
 | 19  | [React coding challenges - Problems to solve](https://www.reacterry.com/) |
 | 20  | [Side income options for developers](https://dev.to/sasidhar_gadepalli/the-developers-guide-to-earning-side-income-an-inside-look-2jca) |
 | 21  | [React Security](https://reactsecurity.io)  |
+| 22  | [DevRel Resources](https://devrelresourc.es/) |
+| 23  | [Open Source Hub](https://opensourcehub.io/) |
+| 24  | [Solve these frontend machine coding problems for interview preparation](https://frontendeval.com/) [solution]()https://github.com/dennyhong96/frontendeval |
