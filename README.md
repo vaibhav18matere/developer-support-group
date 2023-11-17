@@ -41,7 +41,7 @@
 [Idealist](https://www.idealist.org)| [Landing Jobs - uk ](https://landing.jobs) |
 [Sologig](https://www.sologig.com) | [Dice](https://www.dice.com) |
 [WPHired](https://www.wphired.com) | [github jobs](https://jobs.github.com) |
-[Stack Overflow](https://lnkd.in/eyzAe3Sp) |
+[Stack Overflow](https://lnkd.in/eyzAe3Sp) | [I'd rather be writting blog](https://idratherbewriting.com/) |
 
 
 🚀 Startups jobs-listing platforms:
