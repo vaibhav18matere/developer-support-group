@@ -193,8 +193,8 @@
 - excalidraw.com
 
 ## Open Source projects
-
-| Project Name                                                                | Github Link                                                                |
+  
+| Next.JS                                                                |  Next.JS                                                                     |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [Supabase](https://github.com/supabase/supabase)                       | [Rally](https://github.com/lukevella/rallly)                                |
 | [Cal. com](https://github.com/calcom/cal.com)                          | [Formbricks](https://github.com/formbricks/formbricks)                      |
