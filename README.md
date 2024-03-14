@@ -175,7 +175,7 @@
 | 29  | [Design resources for developers - Brad Traversy](https://github.com/bradtraversy/design-resources-for-developers) |
 | 30  | [Git commands visualized](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)  |
 
-### WEbsites you should know as a developer
+### Websites you should know as a developer
 - DEV.to
 - Indiehackers.com
 - DevDocs.io
@@ -191,3 +191,20 @@
 - coderadio.freecodecamp.org
 - teamblind.com
 - excalidraw.com
+
+## Open Source projects
+
+| Project Name                                                                | Github Link                                                                |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Supabase]([https://nestjs.com](https://lnkd.in/gi9spQzA))                                    | [link](https://discord.gg/SgMctPMtrm)     |
+| [Cal. com]([https://flutter.dev](https://lnkd.in/gak6yHDJ))                 | [link](https://discord.gg/rflutterdev)                  |
+| [Infisuial]([https://bigfrontend.dev](https://lnkd.in/grXBpJZx)) | [link](https://discord.gg/gjegkgcBXU)                   |
+| [Dub. co]([javascript.info](https://lnkd.in/gGCpmNi3))                 | [link](https://discord.gg/ksDNVBWJ)                     |
+| [Twenty]([https://geekyants.com/](https://lnkd.in/gJW5kZRY))                 | [link](https://discord.gg/KUkVHUNTGr)                   |
+| [Inbox zero]([https://hacktoberfest.digitalocean.com](https://lnkd.in/g48bgrTq))  | [link](https://discord.gg/hacktoberfest)          |
+
+
+7. Rally - https://lnkd.in/gM248DV3
+8. Formbricks - https://lnkd.in/ggZaum7j
+9. Civitai - https://lnkd.in/g6bB4-Mi
+10. Plane. so - https://lnkd.in/gEYbf94b
